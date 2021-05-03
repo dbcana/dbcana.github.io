@@ -1,19 +1,19 @@
 ## Lógica de Programação e Programação Orientada a Objetos
--[] Variáveis
--[] Entrada e Saída
--[] Estruturas Sequenciais
--[] Estruturas de Repetição
--[] Funções
--[] Operações de String
--[] Manipulação de Arquivos
--[] Classes e Objetos
--[] Métodos e Atributos
--[] Métodos Mágicos
--[] Encapsulamento
--[] Herança
--[] Exceções
--[] Criação de Pacotes
--[] Uso de Pacotes
+	-[] Variáveis
+	-[] Entrada e Saída
+	-[] Estruturas Sequenciais
+	-[] Estruturas de Repetição
+	-[] Funções
+	-[] Operações de String
+	-[] Manipulação de Arquivos
+	-[] Classes e Objetos
+	-[] Métodos e Atributos
+	-[] Métodos Mágicos
+	-[] Encapsulamento
+	-[] Herança
+	-[] Exceções
+	-[] Criação de Pacotes
+	-[] Uso de Pacotes
 
 ## Estrutura de Dados e Análise de Algoritmos
 	- [] Listas

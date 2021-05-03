@@ -1,4 +1,4 @@
-## Lógica de Programação e Programação Orientada a Objetos
+## Lógica de Programação e Programação Orientada a Objetos com Python
 - [ ] Variáveis
 - [ ] Entrada e Saída
 - [ ] Estruturas Sequenciais
@@ -15,7 +15,7 @@
 - [ ] Criação de Pacotes
 - [ ] Uso de Pacotes
 
-## Estrutura de Dados e Análise de Algoritmos
+## Estrutura de Dados e Análise de Algoritmos com Python
 - [ ] Listas
 - [ ] Dicionários e Tuplas
 - [ ] Matrizes no NumPy
@@ -25,7 +25,7 @@
 - [ ] Árvores
 - [ ] Grafos
 
-## Bibliotecas e APIs
+## Bibliotecas e APIs Python
 - [ ] Pandas
 - [ ] Conceitos de Series e DataFrames
 - [ ] Slices

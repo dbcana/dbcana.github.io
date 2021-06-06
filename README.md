@@ -23,3 +23,7 @@ At this time, I'm learning Python to future works that I hope in Big Data and Ma
 [DIO - Netflix Interface](https://dbcana.github.io/dio-netflix/)
 
 [DIO - Snake Game Js](https://dbcana.github.io/dio-snake_game_js/)
+
+### Awards ###
+
+[Databriks Academy - Fundamentals of Big Data](https://academy.databricks.com/award/completion/42e5af80-aa64-3e15-ac1e-bfc26ea37b84)

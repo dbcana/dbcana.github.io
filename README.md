@@ -2,17 +2,15 @@
 
 **Name**: Daniel Borba Caña
 
-**Birthday**: 08/11/1976
-
 **From**: Montevideo - Uruguay
 
 **Live in**: Esteio/RS - Brasil
 
 ### Professional Experience
 
-More than 10 years of experience with diverse programing languages, with main focus in PHP and SQL. 
+More than 10 years of experience with diverse programing languages, with main focus in PHP, JS, HTML, CSS and SQL. 
 
-During this time, I maked maintenence in legacy codes of JAVA, C#, JS, CSS, VB and others.
+During this time, I maked maintenence in legacy codes of JAVA, C#, VB and others.
 
 I am currently learning Python, R and Cloud Computing for a future work that I hope to achieve as a Data Engineer, Data Analyst or Data Scientist.
 

@@ -31,3 +31,5 @@ I am currently learning Python, R and Cloud Computing for a future work that I h
 [Databriks Academy - Fundamentals of Enterprise Data Management Systems](https://academy.databricks.com/award/completion/69c089df-e286-3aff-9015-ed000a3061e8)
 
 [Databriks Academy - Fundamentals of Machine Learning](https://academy.databricks.com/award/completion/01b74f22-675a-3d53-8272-3381bc9f2260)
+
+[Databriks Academy - Fundamentals of Structured Streaming](https://academy.databricks.com/award/completion/c02a973c-d7df-3808-8ee3-ff9412d88f61)

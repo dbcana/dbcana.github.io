@@ -1,40 +1,40 @@
 ## Lógica de Programação e Programação Orientada a Objetos com Python
-- [ ] Variáveis
-- [ ] Entrada e Saída
-- [ ] Estruturas Sequenciais
-- [ ] Estruturas de Repetição
-- [ ] Funções
+- [x] Variáveis
+- [x] Entrada e Saída
+- [x] Estruturas Sequenciais
+- [x] Estruturas de Repetição
+- [x] Funções
 - [ ] Operações de String
-- [ ] Manipulação de Arquivos
-- [ ] Classes e Objetos
-- [ ] Métodos e Atributos
+- [x] Manipulação de Arquivos
+- [x] Classes e Objetos
+- [x] Métodos e Atributos
 - [ ] Métodos Mágicos
 - [ ] Encapsulamento
-- [ ] Herança
-- [ ] Exceções
+- [x] Herança
+- [x] Exceções
 - [ ] Criação de Pacotes
 - [ ] Uso de Pacotes
 
 ## Estrutura de Dados e Análise de Algoritmos com Python
-- [ ] Listas
-- [ ] Dicionários e Tuplas
+- [x] Listas
+- [x] Dicionários e Tuplas
 - [ ] Matrizes no NumPy
-- [ ] Recursividade
-- [ ] Ordenação
-- [ ] Análise de Complexidade
+- [x] Recursividade
+- [x] Ordenação
+- [x] Análise de Complexidade
 - [ ] Árvores
 - [ ] Grafos
 
 ## Bibliotecas e APIs Python
-- [ ] Pandas
+- [x] Pandas
 - [ ] Conceitos de Series e DataFrames
-- [ ] Slices
-- [ ] Filtragem
+- [x] Slices
+- [x] Filtragem
 - [ ] Leitura de Dados
-- [ ] Manipulação de DataFrames
+- [x] Manipulação de DataFrames
 - [ ] Métodos Úteis
-- [ ] Limpeza de Dados
-- [ ] Gráficos
+- [x] Limpeza de Dados
+- [x] Gráficos
 - [ ] Principais gráficos no Matplotlib
 - [ ] Parâmetros úteis
 - [ ] Títulos e legendas
@@ -43,31 +43,31 @@
 - [ ] Plotagem usando Pandas
 - [ ] Gráficos avançados com Seaborn
 - [ ] Gráficos dinâmicos com Plotly
-- [ ] Git
+- [x] Git
 
 ## Banco de Dados
-- [ ] Introdução ao SQL
-- [ ] Consulta dados em tabelas únicas
-- [ ] Funções Agregadoras
-- [ ] Consulta dados em tabelas múltiplas
+- [x] Introdução ao SQL
+- [x] Consulta dados em tabelas únicas
+- [x] Funções Agregadoras
+- [x] Consulta dados em tabelas múltiplas
 - [ ] Manipulação de Banco na AWS
-- [ ] Conexão entre Python e Bancos de Dados
-- [ ] Modelo Relacional
-- [ ] Modelo Não Relacional
-- [ ] MongoDB
+- [x] Conexão entre Python e Bancos de Dados
+- [x] Modelo Relacional
+- [x] Modelo Não Relacional
+- [x] MongoDB
 
 ## Estatística
-- [ ] Estatística Básica
-- [ ] Análise Descritiva
-- [ ] Variáveis Aleatórias
+- [x] Estatística Básica
+- [x] Análise Descritiva
+- [x] Variáveis Aleatórias
 - [ ] Condicional e Independência
 - [ ] Principais Distribuições
 - [ ] Esperança
-- [ ] Teorema de Bayes
-- [ ] Amostragem
+- [x] Teorema de Bayes
+- [x] Amostragem
 - [ ] Teorema Central do Limite
 - [ ] Estimação
-- [ ] Teste de Hipótese
+- [x] Teste de Hipótese
 - [ ] Regressão Linear
 - [ ] Séries Temporais
 - [ ] Análise de Variáveis Categorizadas
@@ -96,7 +96,7 @@
 - [ ] Processamento de Áudio
 
 ## Redes Neurais
-- [ ] Introdução a Redes Neurais
+- [x] Introdução a Redes Neurais
 - [ ] Modelagem matemática do neurônio: Perceptron
 - [ ] Regra Delta
 - [ ] Erro
@@ -111,10 +111,10 @@
 - [ ] Aplicações avançadas
 
 ## Big Data
-- [ ] Introdução a Big Data
-- [ ] Vantagens e Desvantagens de Ambiente de Big Data
-- [ ] Data Warehouse
-- [ ] Data Lake
+- [x] Introdução a Big Data
+- [x] Vantagens e Desvantagens de Ambiente de Big Data
+- [x] Data Warehouse
+- [x] Data Lake
 - [ ] Hadoop
 - [ ] Hive
 - [ ] Flume

@@ -27,6 +27,7 @@ I am currently learning Python, R and Cloud Computing for a future work that I h
 - Fundamentals of Machine Learning
 - Fundamentals of Structured Streaming
 
+
 2. Delta Lake Fundamentals Accreditation - Demonstrate knowledge of fundamental concepts related to Delta Lake about Databricks.
 - Fundamentals of Delta Lake
 - Delta Lake Fundamentals Accreditation

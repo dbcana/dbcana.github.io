@@ -28,10 +28,10 @@ I am currently learning Python, R and Cloud Computing for a future work that I h
 - Fundamentals of Structured Streaming
 
 2. Delta Lake Fundamentals Accreditation - Demonstrate knowledge of fundamental concepts related to Delta Lake about Databricks.
--undamentals of Delta Lake
--Delta Lake Fundamentals Accreditation
+- Fundamentals of Delta Lake
+- Delta Lake Fundamentals Accreditation
 ### Electives:
--Introduction to Lakehouse Architecture
+- Introduction to Lakehouse Architecture
 
 ### [Proof of Completion](https://academy.databricks.com/award/completion/50835ce3-6a5c-31da-8b8b-0d190850ff06/view-ext)
 

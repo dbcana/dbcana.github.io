@@ -16,7 +16,7 @@ I am currently learning Python, R and Cloud Computing for a future work that I h
 
 # Awards 
 
-## [Databriks Academy - Business Leader](https://academy.databricks.com/business-leader)
+## [Databricks Academy - Business Leader](https://academy.databricks.com/business-leader)
 
 1. Unified Data Analytics Accreditation => Demonstrate knowledge of fundamental concepts related to Unified Data Analytics.
 - Fundamentals of Big Data

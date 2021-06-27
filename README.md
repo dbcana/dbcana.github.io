@@ -14,28 +14,18 @@ During this time, I maked maintenence in legacy codes of JAVA, C#, VB and others
 
 I am currently learning Python, R and Cloud Computing for a future work that I hope to achieve as a Data Engineer, Data Analyst or Data Scientist.
 
-### Projects at github ###
-
-[DIO - Instagram Login](https://dbcana.github.io/dio-flex_instagram_login/)
-
-[DIO - Netflix Interface](https://dbcana.github.io/dio-netflix/)
-
-[DIO - Snake Game Js](https://dbcana.github.io/dio-snake_game_js/)
-
 ### Awards ###
 
-[Databriks Academy - Unified Data Analytics Accreditation](https://academy.databricks.com/award/completion/e69df535-3e01-39a8-99d0-0339873ae18f)
+[Databriks Academy - Business Leader](https://academy.databricks.com/business-leader)
+- Fundamentals of Big Data
+- Fundamentals of Unified Data Analytics with Databricks
+- Fundamentals of Enterprise Data Management Systems
+- Fundamentals of Machine Learning
+- Fundamentals of Structured Streaming
+- Unified Data Analytics Accreditation
+- Fundamentals of Delta Lake
+- Fundamentals of Lakehouse Architecture
+- Delta Lake Fundamentals Accreditation
+- [Proof of Completion](https://academy.databricks.com/award/completion/50835ce3-6a5c-31da-8b8b-0d190850ff06/view-ext)
 
-  [Databriks Academy - Fundamentals of Big Data](https://academy.databricks.com/award/completion/42e5af80-aa64-3e15-ac1e-bfc26ea37b84)
 
-  [Databriks Academy - Fundamentals of Unified Data Analytics with Databricks](https://academy.databricks.com/award/completion/59a6770e-7785-3e66-a8df-fa1dbf6b94ca)
-
-  [Databriks Academy - Fundamentals of Enterprise Data Management Systems](https://academy.databricks.com/award/completion/69c089df-e286-3aff-9015-ed000a3061e8)
-
-  [Databriks Academy - Fundamentals of Machine Learning](https://academy.databricks.com/award/completion/01b74f22-675a-3d53-8272-3381bc9f2260)
-
-  [Databriks Academy - Fundamentals of Structured Streaming](https://academy.databricks.com/award/completion/c02a973c-d7df-3808-8ee3-ff9412d88f61)
-  
-[Databriks Academy - Fundamentals of Delta Lake](https://academy.databricks.com/award/completion/6f4e9f65-65ee-3a63-a0fe-4fdeea37ca48)
-
-[Databriks Academy - Fundamentals of Lakehouse Architecture](https://academy.databricks.com/award/completion/088c7063-090c-3b46-ae7c-f5fca271d463)

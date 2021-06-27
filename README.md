@@ -12,7 +12,7 @@ More than 10 years of experience with diverse programing languages, with main fo
 
 During this time, I maked maintenence in legacy codes of JAVA, C#, VB and others.
 
-I am currently learning Python, R and Cloud Computing for a future work that I hope to achieve Big Data.
+I am currently learning Python, R and Cloud Computing for a future work with Big Data that I hope to achieve.
 
 # Awards 
 

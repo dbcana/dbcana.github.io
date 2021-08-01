@@ -1,0 +1,19 @@
+{
+	"name": "FileServerTeste",
+	"properties": {
+		"annotations": [],
+		"type": "FileServer",
+		"typeProperties": {
+			"host": "\\\\",
+			"userId": "dbcana",
+			"password": {
+				"type": "AzureKeyVaultSecret",
+				"store": {
+					"referenceName": "DbcanaAzureKeyVault",
+					"type": "LinkedServiceReference"
+				},
+				"secretName": "dbcana"
+			}
+		}
+	}
+}

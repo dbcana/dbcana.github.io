@@ -4,7 +4,7 @@
 		"annotations": [],
 		"type": "FileServer",
 		"typeProperties": {
-			"host": "\\\\",
+			"host": "C:\\DbcanaTeste",
 			"userId": "dbcana",
 			"password": {
 				"type": "AzureKeyVaultSecret",
@@ -12,7 +12,8 @@
 					"referenceName": "DbcanaAzureKeyVault",
 					"type": "LinkedServiceReference"
 				},
-				"secretName": "dbcana"
+				"secretName": "dbcana",
+				"secretVersion": "dbcana"
 			}
 		}
 	}

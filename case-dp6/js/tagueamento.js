@@ -15,3 +15,13 @@ menu_contato.click(function(){
 	});
 });
 
+menu_download = $('a.menu-lista-download');
+menu_download.click(function(){
+	ga('send', {
+		hitType: 'event',
+		eventCategory: 'menu',
+		eventAction: 'download_pdf',
+		eventLabel: 'download_pdf'
+	});
+});
+

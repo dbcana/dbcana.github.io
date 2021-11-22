@@ -7,18 +7,11 @@
 
 function validate_value(field){
 	var valor = $.trim($(field).prop('value'));
-	if(valor){
-		return true;
-	}
-	return false;
+	return valor ? true : false;
 }
 
 function validate_check(field){
-	var is_checked = $(field).prop('checked');
-	if(is_checked){
-		return true;
-	}
-	return false;
+	return $(field).prop('checked');
 }
 
 menu_contato = $('a.menu-lista-contato');

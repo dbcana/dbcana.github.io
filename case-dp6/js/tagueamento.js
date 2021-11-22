@@ -36,3 +36,25 @@ cards.click(function(){
 	});
 });
 
+form = $('form.contato');
+
+inputs = form.find('input')
+inputs.change(function(){
+	var id = $(this).attr('id');
+	ga('send', {
+		hitType: 'event',
+		eventCategory: 'contato',
+		eventAction: id,
+		eventLabel: 'preencheu'
+	});
+});
+
+form.on('submit', function(){
+	ga('send', {
+		hitType: 'event',
+		eventCategory: 'contato',
+		eventAction: 'enviado',
+		eventLabel: 'enviado'
+	});
+});
+

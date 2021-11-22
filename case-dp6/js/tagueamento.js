@@ -25,3 +25,14 @@ menu_download.click(function(){
 	});
 });
 
+cards = $('div.card-montadoras');
+cards.click(function(){
+	var nome = $(this).data('name');
+	ga('send', {
+		hitType: 'event',
+		eventCategory: 'analise',
+		eventAction: 'ver_mais',
+		eventLabel: nome
+	});
+});
+

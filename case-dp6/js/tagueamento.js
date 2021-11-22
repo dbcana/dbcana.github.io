@@ -4,3 +4,14 @@
 // O ambiente dispõe da jQuery 3.5.1, então caso deseje, poderá utilizá-la
 // para fazer a sua coleta.
 // Caso tenha alguma dúvida sobre o case, não hesite em entrar em contato.
+
+menu_contato = $('a.menu-lista-contato');
+menu_contato.click(function(){
+	ga('send', {
+		hitType: 'event',
+		eventCategory: 'menu',
+		eventAction: 'entre_em_contato',
+		eventLabel: 'link_externo'
+	});
+});
+

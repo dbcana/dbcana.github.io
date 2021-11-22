@@ -5,6 +5,22 @@
 // para fazer a sua coleta.
 // Caso tenha alguma dúvida sobre o case, não hesite em entrar em contato.
 
+function validate_value(field){
+	var valor = $.trim($(field).prop('value'));
+	if(valor){
+		return true;
+	}
+	return false;
+}
+
+function validate_check(field){
+	var is_checked = $(field).prop('checked');
+	if(is_checked){
+		return true;
+	}
+	return false;
+}
+
 menu_contato = $('a.menu-lista-contato');
 menu_contato.click(function(){
 	ga('send', {
@@ -38,15 +54,24 @@ cards.click(function(){
 
 form = $('form.contato');
 
-inputs = form.find('input')
+inputs = form.find('input');
 inputs.change(function(){
 	var id = $(this).attr('id');
-	ga('send', {
-		hitType: 'event',
-		eventCategory: 'contato',
-		eventAction: id,
-		eventLabel: 'preencheu'
-	});
+	var validate = false;
+	if(['nome','email','telefone'].includes(id)){
+		validate = validate_value(this);
+	}
+	if(['aceito'].includes(id)){
+		validate = validate_check(this);
+	}
+	if(validate){
+		ga('send', {
+			hitType: 'event',
+			eventCategory: 'contato',
+			eventAction: id,
+			eventLabel: 'preencheu'
+		});
+	}
 });
 
 form.on('submit', function(){
